@@ -1,5 +1,8 @@
-# mas418finalproject
-Welcome to our Job Scraper
+# Job Recommender
+Welcome to our Job Recommender, a project started during MAS 418 Tools in Data Science.
+
+Authors:
+- Mariana, Dominique and Danny
 
 This Scraper currently has 2 functionalities: recommender and summarizer. It's built using Flask and can be deployed by running the flask app. 
 
